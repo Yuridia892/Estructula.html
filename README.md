@@ -1,2 +1,2 @@
-# Estructula.html
+Estructura.html
 pagina web
